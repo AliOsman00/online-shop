@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Мокри кърпи",
+        "price": 4,
+        "image": "images/mokri-kirpi.png"
+    },
+    
+    {
+        "id": 2,
+        "title": "HELL",
+        "price": 1.5,
+        "image": "images/hell.png"
+    },
+    
+    {
+        "id": 3,
+        "title": "Phone Charger",
+        "price": 20,
+        "image": "images/charger.png"
+    },
+    
+    {
+        "id": 4,
+        "title": "Orbit",
+        "price": 1,
+        "image": "images/orbit.png"
+    },
+
+    {
+        "id": 5,
+        "title": "Банан",
+        "price": 1.8,
+        "image": "images/banan.png"
+    },
+
+    {
+        "id": 6,
+        "title": "Авокадо",
+        "price": 4,
+        "image": "images/Avokado.png"
+    },
+
+    {
+        "id": 7,
+        "title": "Яйца",
+        "price": 3.5,
+        "image": "images/egg.png"
+    },
+
+    {
+        "id": 8,
+        "title": "Сладолед",
+        "price": 10,
+        "image": "images/sladoled.png"
+    }
+    
+]
